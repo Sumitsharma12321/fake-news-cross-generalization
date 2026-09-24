@@ -1,0 +1,16 @@
+# StyleGuard core (modular replacement of the notebook-based workflow)
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+torch>=2.0
+joblib>=1.2
+
+# Optional: explainability analysis
+lime>=0.2.0
+matplotlib>=3.6
+seaborn>=0.12
+
+# Optional: WordNet-based synonym augmentation
+nltk>=3.8
+
+# Paper build (LaTeX) is handled outside Python.
